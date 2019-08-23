@@ -76,7 +76,12 @@ li a:hover {
   background-color: #111;
 }
 
-
+span{
+   font-family: "Times New Roman";
+    font-size: 26px;
+   font-weight: bold;
+   color:#55ACEE;
+}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
