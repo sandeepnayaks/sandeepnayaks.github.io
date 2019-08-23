@@ -215,6 +215,17 @@ ul.posts li { list-style: none; }
   font-size: 15px;
   margin-bottom: 10px;
 }
+.blue-bg > .section-content{
+  /* background-color: #3295be; */
+  background: rgba(34,125,170,1);
+  background: -moz-linear-gradient(top, rgba(34,125,170,1) 0%, rgba(81,172,205,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(34,125,170,1)), color-stop(100%, rgba(81,172,205,1)));
+  background: -webkit-linear-gradient(top, rgba(34,125,170,1) 0%, rgba(81,172,205,1) 100%);
+  background: -o-linear-gradient(top, rgba(34,125,170,1) 0%, rgba(81,172,205,1) 100%);
+  background: -ms-linear-gradient(top, rgba(34,125,170,1) 0%, rgba(81,172,205,1) 100%);
+  background: linear-gradient(to bottom, rgba(34,125,170,1) 0%, rgba(81,172,205,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#227daa', endColorstr='#51accd', GradientType=0 );
+}
 
 .main-section > .section-content {
   display: table-cell;
