@@ -34,8 +34,8 @@ nav ul li a {
   text-decoration: none;
 }
 .fa {
-  padding: 20px;
-  font-size: 15px;
+  padding: 10px;
+  font-size: 20px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
@@ -46,7 +46,7 @@ nav ul li a {
     opacity: 0.7;
 }
 .fa-envelope {
-  background: black;
+  background: grey;
   color: white;
 }
 .fa-github {
