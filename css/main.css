@@ -18,7 +18,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; float: left; }
 
 
  div ul li{background-color: lightgrey;
-  width: 150px;
+  width: 80%;
   border: 15px solid grey;
   padding: 50px;
   margin: 20px;
