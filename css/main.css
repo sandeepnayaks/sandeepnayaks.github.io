@@ -84,36 +84,13 @@ ul.posts li { list-style: none; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// here last
 .main-section > .section-content {
   display: table-cell;
   vertical-align: middle;
   padding: 10px 100px;
   text-align: left;
 }
-
-.main-section p {
-  font-size: 20px;
-}
-
-
-.section {
-  display: block;
-}
-
 .section-content {
   padding: 100px 100px;
   display: block;
@@ -123,19 +100,6 @@ ul.posts li { list-style: none; }
 .section-content .content > div {
   padding-left: 10px;
 }
-
-
-
-
-.content p {
-  margin: 0;
-  font-size: 18px;
-  color: white;
-  line-height: 30px;
-  letter-spacing: 1px;
-}
-
-
 
 .white-bg .title h1 {
   color: #3295be;
@@ -153,19 +117,8 @@ ul.posts li { list-style: none; }
   color: #58798c;
 }
 
-
-
-
-
 .white-bg .title > h1:after {
   border: 2px solid #3295be;
-}
-
-
-
-.content {
-  float: left;
-  width: 80%;
 }
 
 
@@ -174,28 +127,12 @@ ul.posts li { list-style: none; }
   float: left;
 }
 
-
-
 .dual-col img {
   width: 90%;
   border: 1px solid #eee;
   border-radius: 10px;
   margin-bottom: 10px;
 }
-
-
-
-
-
-.dual-col.img-col:nth-child(7) {
-  margin-bottom: 0;
-}
-
-.dual-col.img-col:last-child {
-  margin-bottom: 0;
-}
-
-
 
 .footer .section-content {
   padding: 30px, 60px;
