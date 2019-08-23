@@ -10,6 +10,7 @@ h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
+footer{display:inline;}
 
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial';  overflow: hidden;
    padding: 10px; list-style: none; font-weight: bold; }
@@ -78,7 +79,7 @@ li a:hover {
 
 .cm{
    font-family: "Times New Roman";
-    font-size: 26px;
+    font-size: 40px;
    font-weight: bold;
    color:#55ACEE;
 }
