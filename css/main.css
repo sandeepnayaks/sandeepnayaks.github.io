@@ -85,13 +85,13 @@ ul.posts li { list-style: none; }
 
 
 // here last
-.main-section > .section-content {
+.main-section > .section-{
   display: table-cell;
   vertical-align: middle;
   padding: 10px 100px;
   text-align: left;
 }
-.section-content {
+.section-{
   padding: 100px 100px;
   display: block;
   overflow: auto;
@@ -171,6 +171,16 @@ ul.posts li { list-style: none; }
   height:100%;
   position:absolute;
   line-height:inherit;
+}
+.content p {
+  margin: 0;
+  font-size: 18px;
+  color: white;
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+.section-content .content > div {
+  padding-left: 20px;
 }
 
 
