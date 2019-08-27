@@ -1,5 +1,5 @@
-body { margin-top: 60px 50px;;top:0; width: 100%;
-margin-bottom:20px;}
+body { margin-top: 60px auto;top:0; width: 100%;
+}
 html { 
   background: url(../../bg1.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
