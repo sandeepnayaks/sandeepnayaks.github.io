@@ -51,9 +51,9 @@ li strong{
 
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial'; overflow:hidden; 
    padding: 0px; list-style: none; font-weight: bold; }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
  
-  ul {float: none;}}
+  nav ul li {float: none;}}
 nav ul{background-color: #333;}
 nav{
   margin:0;
