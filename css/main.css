@@ -31,6 +31,7 @@ nav{
    overflow: hidden;
  position: fixed;
  top: 0;
+  left:0;
  width: 100%;
 }
 nav ul li, footer ul li { display: inline; margin-right: 20px; float: left; }
@@ -203,29 +204,13 @@ ul.posts li { list-style: none; }
   position:absolute;
   line-height:inherit;
 }
-.content p {
-  margin: 0;
-  font-size: 18px;
-  color: white;
-  line-height: 30px;
-  letter-spacing: 1px;
-}
-.section-content .content > div {
-  padding-left: 20px;
-}
+
+
 .white-bg .title > h1:after {
   border: 2px solid #3295be;
 }
-.dual-col {
-  width: 50%;
-  float: left;
-}
 
-.dual-col h2 {
-  color: #2473a0;
-  font-size: 15px;
-  margin-bottom: 10px;
-}
+
 .blue-bg > .section-content{
   /* background-color: #3295be; */
   background: rgba(34,125,170,1);
