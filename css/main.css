@@ -1,4 +1,4 @@
-body { margin-top: 60px auto;top:0; width: 100%;
+body { margin-top: 60px 50px;;top:0; width: 100%;
 margin-bottom:20px;}
 html { 
   background: url(../../bg1.jpg) no-repeat center center fixed; 
@@ -109,7 +109,7 @@ ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
 ul.posts li { list-style: none; }
 
 /* CV */
-.cv { margin: 40px 0px 60px; }
+.cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 2em; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
