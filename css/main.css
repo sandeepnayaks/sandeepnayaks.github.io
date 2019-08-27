@@ -25,7 +25,7 @@ li strong{
   font-size:24px;
 }
 
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial';  
+nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial'; overflow:hidden; 
    padding: 0px; list-style: none; font-weight: bold; }
 nav ul{background-color: #333;}
 nav{
@@ -35,7 +35,7 @@ nav{
  top: 0;
  width: 100%;
 }
-nav ul li, footer ul li { display: inline; margin-right: 20px; float: left; }
+nav ul li, footer ul li { display: inline; margin-right: 21px; float: left; }
 
 article ul {
   list-style-type: none;
