@@ -19,6 +19,11 @@ h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 footer{display:inline;}
 
+li strong{
+  color:lightblue;
+  font-size:24px;
+}
+
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial';  overflow: hidden;
    padding: 10px; list-style: none; font-weight: bold; }
 nav ul{background-color: #333;}
