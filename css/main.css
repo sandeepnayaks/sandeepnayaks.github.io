@@ -35,7 +35,7 @@ nav{
  top: 0;
  width: 100%;
 }
-nav ul li, footer ul li { display: inline; margin-right: 60px; float: left; }
+nav ul li, footer ul li { display: inline; margin-right: 20px; float: left; }
 
 article ul {
   list-style-type: none;
