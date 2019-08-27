@@ -1,4 +1,4 @@
-body { margin-top: 30px auto; width: 90%; }
+body { margin: 40px auto; width: 100%; }
 html { 
   background: url(../../bg1.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -41,7 +41,7 @@ article ul {
 }
  article ul li{background-color: lightgrey;
   
-  border: 15px solid grey;
+  border: 10px solid grey;
   padding: 50px;
   margin: 20px;
 }
