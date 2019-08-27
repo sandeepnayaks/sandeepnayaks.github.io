@@ -41,7 +41,8 @@ h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
-footer{display:inline;}
+footer{display:inline;
+clear:both;}
 
 li strong{
   color:#3B5998;
