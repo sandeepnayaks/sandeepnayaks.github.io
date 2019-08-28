@@ -50,7 +50,7 @@ li strong{
 }
 
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial'; overflow:hidden; 
-   padding: 0px; list-style: none; font-weight: bold; }
+   padding: 14px 16px;; list-style: none; font-weight: bold; }
 
 nav ul{background-color: #333;}
 nav{
@@ -60,9 +60,8 @@ nav{
  top: 0;
  width: 100%;
 }
-nav ul li, footer ul li { display: inline; margin-right: 21px; float: left; }
-@media screen and (max-width: 600px) {
-  nav ul li.right, 
+nav ul li, footer ul li { display: inline; margin-right: 0px; float: left; }
+@media screen and (max-width: 600px){
   nav ul li {float: none;}
 
 article ul {
