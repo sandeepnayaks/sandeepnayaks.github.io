@@ -1,4 +1,4 @@
-body { margin:auto 1%;top:0; width: 100%;
+body { margin:90px 1%;top:0; width: 100%;
 }
 html { 
   background: url(../../bg1.jpg) no-repeat center center fixed; 
@@ -61,8 +61,8 @@ nav{
  width: 100%;
 }
 nav ul li, footer ul li { display: inline; margin-right: 0px; float: left; }
-@media screen and (max-width: 600px){
-  nav ul li {float: none;}
+/*@media screen and (max-width: 600px){
+  nav ul li {float: none;}*/
 
 article ul {
   list-style-type: none;
