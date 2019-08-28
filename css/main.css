@@ -2,7 +2,7 @@ body { margin:90px 1%;top:0; width: 100%;
 }
 @media screen and (max-width:640px) {
     body{
-      width:500px;
+      width:300px;
   }}
 html { 
   background: url(../../bg1.jpg) no-repeat center center fixed; 
