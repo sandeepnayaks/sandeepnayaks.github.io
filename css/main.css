@@ -1,8 +1,8 @@
 body { margin:90px 1%;top:0; width: 100%;
 }
-@media screen and (max-width:430px) {
+@media screen and (max-width:425px) {
     body{
-      width:430px;
+      width:425px;
   }}
 html { 
   background: url(../../bg1.jpg) no-repeat center center fixed; 
