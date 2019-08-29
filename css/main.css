@@ -71,11 +71,11 @@ nav ul li, footer ul li { display: inline; margin-right: 0px; float: left; }
 article ul {
   list-style-type: none;
 }
- article ul li{background-color: lightgrey;
+ article ul li{background-color: #DDF6F3;
   
-  border: 10px solid grey;
-  padding: 50px;
-  margin: 20px;
+  border: 10px solid #FBFCFC;
+  padding: 30px;
+  margin: 10px;
 }
 
 nav ul li a {
