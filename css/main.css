@@ -1,8 +1,8 @@
-body { margin:90px 1%;top:0; width: 100%;
+body { margin:90px 0;top:0; width: 100%;
 }
-@media screen and (max-width:421px) {
+@media screen and (max-width:410px) {
     body{
-      width:421px;
+      width:410px;
   }}
 html { 
   background: url(../../bg1.jpg) no-repeat center center fixed; 
@@ -83,7 +83,7 @@ nav ul li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 10px 12px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 .fa {
