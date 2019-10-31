@@ -57,7 +57,7 @@ nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial'; overflow:
    padding: 3px 16px;; list-style: none; font-weight: bold; }
 
 nav ul{background-color: #D6E9FF;
-color:03254c;}
+}
 nav{
   margin:0;
    overflow: hidden;
@@ -243,6 +243,8 @@ ul.posts li { list-style: none; }
 .white-bg .title > h1:after {
   border: 2px solid #3295be;
 }
+.blue-bg p, .blue-bg h2{
+    padding:40%;}
 
 
 .blue-bg > .section-content{
