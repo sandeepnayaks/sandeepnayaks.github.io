@@ -56,7 +56,8 @@ li strong{
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial'; overflow:hidden; 
    padding: 3px 16px;; list-style: none; font-weight: bold; }
 
-nav ul{background-color: #D6E9FF;}
+nav ul{background-color: #D6E9FF;
+color:03254c;}
 nav{
   margin:0;
    overflow: hidden;
