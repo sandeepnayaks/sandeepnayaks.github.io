@@ -186,7 +186,11 @@ ul.posts li { list-style: none; }
 .white-bg .title > h1:after {
   border: 2px solid #3295be;
 }
-
+@media screen and (max-width:410px) {
+   .dual-col {
+  width: 50%;
+  float: left;
+}}
 
 
 
